@@ -42,8 +42,6 @@ class App
 
     public static function bootstrap() : App
     {
-        define('__ROOT__', realpath(__DIR__ . '/../'));
-
         return new static;
     }
 

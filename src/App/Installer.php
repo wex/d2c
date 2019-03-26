@@ -27,6 +27,7 @@ class Installer
             echo "\n";
             printf("Next you should check our project root for .config file.\n");
             printf("Update your database credentials and after that run:\n\n");
+            printf("cd d2p\n");
             printf("composer update\n");
             printf("composer setup\n\n");
             printf("After this, you should update keen's permissions:\n");
