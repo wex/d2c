@@ -1,16 +1,17 @@
-# D2P
+# D2 Core
 
-D2P is a lightweight PHP framework which can be used as Composer project to create your own software.
+D2 is a lightweight PHP framework core which can be used as Composer project to 
+create your own software.
 
 # How to get it?
 
   - You can use `git clone` to get it from GitHub
-  - You can use Composer to install it as skeleton project: 
-    `composer create-project wex/d2p:dev-master --repository-url=<tba>`
+  - You can use Composer to require it:
+    `composer require nhujanen/d2c`
 
 # Requirements
 
-D2P is requires PHP7.0 and is built over some other packages.
+D2 requires PHP 7.0 and is built over some other packages.
 
 * [zendframework/zend-config] - Used in core configuration
 * [zendframework/zend-db] - Used in ActiveRecord
@@ -33,11 +34,12 @@ D2P is requires PHP7.0 and is built over some other packages.
 
 # How to help?
 
-At this point D2P is a one-man show. Architecture WILL be changed and some parts will be rewritten for sure.
+At this point D2P is a one-man show. Architecture WILL be changed and some parts
+will be rewritten for sure.
 
 # NOTICE!
 
-Please do not use D2P in production before version `1.0.0` is released!
+Please do not use D2 in production before version `1.0.0` is released!
 
 License
 ----

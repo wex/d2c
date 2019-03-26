@@ -1,6 +1,6 @@
 {
     "name": "nhujanen/d2c",
-    "description": "d2c for PHP7+",
+    "description": "D2 Core for PHP7+",
     "keywords": ["framework", "mvc", "orm"],
     "license": "MIT",
     "authors": [
