@@ -21,7 +21,7 @@ use Wex\Base\Renderable;
 
 class App
 {
-    const   VERSION     = '0.1.1';
+    const   VERSION     = '0.0.2';
 
     static  $config;
     static  $base;
